@@ -1,0 +1,24 @@
+{
+  "name": "PhotoExpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express-photo-gallery": "^1.0.9",
+    "react-images": "^0.5.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aishabraud92/PhotoExpress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aishabraud92/PhotoExpress/issues"
+  },
+  "homepage": "https://github.com/aishabraud92/PhotoExpress#readme"
+}
