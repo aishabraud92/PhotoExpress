@@ -1,4 +1,11 @@
 # PhotoExpress
-##upload photo album
-Technologies used
-React
+
+Technologies
+REACT
+
+Process
+*Research photo galleries
+*Upload/Add Pictures
+*Edit pictures
+
+
