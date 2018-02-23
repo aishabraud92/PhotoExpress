@@ -5,10 +5,14 @@ class Home extends Component{
   render(){
     return(
       <div>
-      <h1>WELCOME</h1>
-
-      <a href="/trisha" class="btn btn-secondary btn-lg btn-block" role="button" aria-disabled="true">Trisha Album</a>
-      <a href="/travel" class="btn btn-secondary btn-lg btn-block" role="button" aria-disabled="true">Travel Album</a>
+      <div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <h1 class="display-2">MEMORIES</h1>
+    <p class="lead">A REACT Photo app</p>
+  </div>
+</div>
+      <a href="/trisha" class="btn btn-secondary btn-lg btn-block" role="button" aria-disabled="true">Trisha</a>
+      <a href="/travel" class="btn btn-secondary btn-lg btn-block" role="button" aria-disabled="true">Travel</a>
       </div>
 
     );

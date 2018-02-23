@@ -53,6 +53,7 @@ class Upload extends React.Component {
               {$imagePreview}
             </div>
           </div>
+
         )
       }
     }

@@ -34,7 +34,7 @@ class Trisha extends Component{
           <img src='https://mail.google.com/mail/u/1/?ui=2&ik=8bc24f3703&view=att&th=161bbaf28c853278&attid=0.12&disp=safe&realattid=1593072378019053568-local11&zw' />
           <img src='https://mail.google.com/mail/u/1/?ui=2&ik=8bc24f3703&view=att&th=161bbaf28c853278&attid=0.11&disp=safe&realattid=1593072378019053568-local10&zw' />
           <img src='https://mail.google.com/mail/u/1/?ui=2&ik=8bc24f3703&view=att&th=161bbaf28c853278&attid=0.10&disp=safe&realattid=1593072378019053568-local9&zw' />
-          
+
         </div>
 
     );
